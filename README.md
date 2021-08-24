@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atharva-Tikhe
 - 👀 I’m interested in Bioinformatics, Machine learning, deep learning for biological problems.
-- 🌱 I use python mainly, I have learnt Java, C.
+- 🌱 Python | Java | C# | HTML/CSS | JavaScript
 - 💞️ I’m looking to collaborate on bioinformatics/computational biology related projects.
 - 📫 How to reach me atharvatikhe22@gmail.com
 
