@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on bioinformatics/computational biology projects.
 - 📫 How to reach me atharvatikhe22@gmail.com
 - 🎉 Hobbies:
-  - Linux enthusiast
-  - webdev
-  - Sleeping 💤
-  - calisthenics
-  - football   
+  - Linux aficionado
+  - Webdev
+  - Calisthenics
+  - Football
+  - Music    
 <!---
 Atharva-Tikhe/Atharva-Tikhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
