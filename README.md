@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Atharva-Tikhe
--  I am a bioinformatics student working on NGS analysis, pipelines, ML in biology and much more...
+-  I am a bioinformatics student working on NGS analysis, bioinformatics pipelines, RNA-Seq, Network Biology.
 -  Languages -> Python | Bash | R
 -  How to reach me atharvatikhe22@gmail.com
