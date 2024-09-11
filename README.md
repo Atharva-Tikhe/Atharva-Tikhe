@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Atharva-Tikhe
--  I am a bioinformatics student working on NGS analysis, bioinformatics pipelines, RNA-Seq, Network Biology.
--  Languages -> Python | Bash | R
+-  I am a bioinformatics student working on NGS analysis, Nextflow pipelines, RNA-Seq.
+-  Languages -> Python | Bash | R | Nextflow
+-  I work at MedGenome Labs. Inc. (atharva.tikhe@medgenome.com)
 -  How to reach me atharvatikhe22@gmail.com
